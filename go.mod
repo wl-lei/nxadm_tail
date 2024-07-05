@@ -1,4 +1,4 @@
-module github.com/nxadm/tail
+module github.com/wl-lei/nxadm_tail
 
 go 1.13
 
